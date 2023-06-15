@@ -19,16 +19,17 @@
     <li>Статистический анализ.</li>
     <li>Построение моделей с помощью машинного обучения.</li>
     <li>Выводы и интерпретация результатов.</li> 
-    <p style="margin-bottom: 20px;"></p>
-    <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb">Предобработка данных и визуализация</a>
-    <p style="margin-bottom: 20px;"></p>
-    <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/hypothesis.ipynb">Проверка гипотез</a>
-    <p style="margin-bottom: 20px;"></p>
-    <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/ML.ipynb">Машинное обучение</a>
-    <p style="margin-bottom: 20px;"></p>
-    <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/map_NYPD.html">Интерактивная карта с местами шутингов в Нью-Йорке (обязательно к просмотру!!!)</a>
-    <p style="margin-bottom: 20px;"></p>
-    <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data/df1.csv">Таблица после предобработки данных</a>
+  <h4>Ссылки на файлы</h4>
+  <p style="margin-bottom: 20px;"></p>
+  <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb">Предобработка данных и визуализация</a>
+  <p style="margin-bottom: 20px;"></p>
+  <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/hypothesis.ipynb">Проверка гипотез</a>
+  <p style="margin-bottom: 20px;"></p>
+  <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/ML.ipynb">Машинное обучение</a>
+  <p style="margin-bottom: 20px;"></p>
+  <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/map_NYPD.html">Интерактивная карта с местами шутингов в Нью-Йорке (обязательно к просмотру!!!)</a>
+  <p style="margin-bottom: 20px;"></p>
+  <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data/df1.csv">Таблица после предобработки данных</a>
   </ol>
 </body>
 </html>
