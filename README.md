@@ -18,9 +18,8 @@
     <li>Визуализация и анализ данных.</li>
     <li>Статистический анализ.</li>
     <li>Построение моделей с помощью машинного обучения.</li>
-    <li>Выводы и интерпретация результатов.</li>
-    https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb 
-    <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb">F</a>
+    <li>Выводы и интерпретация результатов.</li> 
+    <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb">Предобработка данных и визуализация</a>
   </ol>
 </body>
 </html>
