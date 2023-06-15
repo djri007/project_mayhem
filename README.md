@@ -20,6 +20,8 @@
     <li>Построение моделей с помощью машинного обучения.</li>
     <li>Выводы и интерпретация результатов.</li> 
     <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb">Предобработка данных и визуализация</a>
+    <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb](https://github.com/djri007/project_mayhem/blob/main/project2023/hypothesis.ipynb)https://github.com/djri007/project_mayhem/blob/main/project2023/hypothesis.ipynb">Проверка гипотез"</a>
+    <a href="">"Машинное обучение"</a>
   </ol>
 </body>
 </html>
