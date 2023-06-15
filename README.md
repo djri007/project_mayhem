@@ -19,7 +19,7 @@
     <li>Статистический анализ.</li>
     <li>Построение моделей с помощью машинного обучения.</li>
     <li>Выводы и интерпретация результатов.</li>
-    href=https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb
+    https://github.com/djri007/project_mayhem/blob/main/project2023/data_preprocessing_and_visualisations.ipynb <f>
   </ol>
 </body>
 </html>
