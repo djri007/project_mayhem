@@ -19,7 +19,7 @@
     <li>Статистический анализ.</li>
     <li>Построение моделей с помощью машинного обучения.</li>
     <li>Выводы и интерпретация результатов.</li>
-    - [](./data_preprocessing_and_visualisations.ipynb)
+    - [](.project2023/data_preprocessing_and_visualisations.ipynb)
   </ol>
 </body>
 </html>
