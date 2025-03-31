@@ -28,7 +28,7 @@
   <p style="margin-bottom: 20px;"></p>
   <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/ML.ipynb">Машинное обучение</a>
   <p style="margin-bottom: 20px;"></p>
-  <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/map_NYPD.html">Интерактивная карта с местами шутингов в Нью-Йорке (обязательно к просмотру!!!)</a>
+  <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/map_NYPD.html">Интерактивная карта с местами шутингов в Нью-Йорке </a>
   <p style="margin-bottom: 20px;"></p>
   <a href="https://github.com/djri007/project_mayhem/blob/main/project2023/data/df1.csv">Датасет после предобработки данных</a>
   </ol>
